@@ -1,1 +1,1 @@
-# rust-progamming-basics
+# Rust Programming Basics
